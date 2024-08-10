@@ -1,7 +1,7 @@
-# 😊 About Me
+# 👩‍🚀 About Me
 I am a Computer Science major at the University of California, Berkeley, with a strong passion for Generative AI, software development, and machine learning. I am eager to explore new opportunities in Computer Science and its interdisciplinary applications.
 
-## 👩‍🚀 Socials
+## 🤳 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halukcemdemirhan/)
 
 ## 🛠 Tech Stack
